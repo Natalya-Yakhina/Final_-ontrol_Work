@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Яхина Н А\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Яхина Н А\\Downloads\\Control_Work\\Final_-ontrol_Work\\Final_Control_Task\\Final_Control_Task.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\2\\ИКР\\Final_-ontrol_Work\\Final_Control_Task\\Final_Control_Task.csproj",
       "projectName": "Final_Control_Task",
-      "projectPath": "C:\\Users\\Яхина Н А\\Downloads\\Control_Work\\Final_-ontrol_Work\\Final_Control_Task\\Final_Control_Task.csproj",
-      "packagesPath": "C:\\Users\\Яхина Н А\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Яхина Н А\\Downloads\\Control_Work\\Final_-ontrol_Work\\Final_Control_Task\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\2\\ИКР\\Final_-ontrol_Work\\Final_Control_Task\\Final_Control_Task.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\2\\ИКР\\Final_-ontrol_Work\\Final_Control_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Яхина Н А\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -13,3 +13,18 @@ C:\Users\Яхина Н А\Downloads\Control_Work\Final_-ontrol_Work\Final_Contro
 C:\Users\Яхина Н А\Downloads\Control_Work\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.pdb
 C:\Users\Яхина Н А\Downloads\Control_Work\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.genruntimeconfig.cache
 C:\Users\Яхина Н А\Downloads\Control_Work\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\ref\Final_Control_Task.dll
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\bin\Debug\net6.0\Final_Control_Task.exe
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\bin\Debug\net6.0\Final_Control_Task.deps.json
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\bin\Debug\net6.0\Final_Control_Task.runtimeconfig.json
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\bin\Debug\net6.0\Final_Control_Task.dll
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\bin\Debug\net6.0\Final_Control_Task.pdb
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.AssemblyInfo.cs
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.dll
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\refint\Final_Control_Task.dll
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.pdb
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\Final_Control_Task.genruntimeconfig.cache
+C:\Users\User\Desktop\2\ИКР\Final_-ontrol_Work\Final_Control_Task\obj\Debug\net6.0\ref\Final_Control_Task.dll
